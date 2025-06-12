@@ -66,7 +66,7 @@ export default function BoldTitle() {
                 </h2>
                 <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>
                     Currently, I live in Bandung. In my personal life, I love to travel with
-                    my Pajero, watch documentaries about geography, and explore new traditional music.
+                    my Mitsubishi Pajero, watch documentaries about living creatures, and explore automatic watches.
                 </TextReveal>
 
                 <Blobs type={'v3'} classVariable={styles.blob} />
