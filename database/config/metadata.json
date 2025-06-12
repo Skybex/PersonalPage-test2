@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "name": "Yasin",
-    "title": "Yasin Genc - Front-End Developer",
+    "name": "Azzuro",
+    "title": "Azzuro Adya - Front-End Developer",
     "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
-    "timeZone": "America/Los_Angeles",
+    "timeZone": "Asia/Jakarta",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Yasin",
-    "surname": "Genc",
+    "name": "Azzuro",
+    "surname": "Adya",
     "role": "Front-End Developer",
-    "experience": 7,
-    "email": "yasin@yasingenc.net",
-    "phone": "+12538316296",
-    "city": "Seattle",
-    "state": "WA",
-    "country": "USA",
-    "username": "@yasingencnet",
+    "experience": 3,
+    "email": "adyamarva@gmail.com",
+    "phone": "+62 812 7877 7788",
+    "city": "Bandung",
+    "state": "Jawa Barat",
+    "country": "Indonesia",
+    "username": "@adyamarva",
     "resumeURL": "https://docs.google.com/document/d/16Fd02ejg1HRan8TIXLOOe5kkBeGqtQvcHOybxVoHOYA/edit?usp=sharing"
   },
   "social": {
-    "twitter": "https://twitter.com/yasingencnet",
-    "instagram": "https://www.instagram.com/yasingencnet",
-    "linkedin": "https://www.linkedin.com/in/yasingencnet/",
-    "github": "https://github.com/yasingencnet",
-    "codepen": "https://codepen.io/yasingencnet"
+    "twitter": "https://twitter.com/Azzuro-test",
+    "instagram": "https://www.instagram.com/zuradya",
+    "linkedin": "https://www.linkedin.com/in/Azzuro-test/",
+    "github": "https://github.com/Skybex",
+    "codepen": "https://codepen.io/Azzuro-test"
   },
   "content": {
-    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+    "verse": "\uD83E\uDD40 TS Sybau PMO \uD83E\uDD40"
   }
 }

@@ -45,7 +45,7 @@ export default function About() {
             <div className={styles.grid}>
                 <header className={styles.header}>
                     <TextReveal className={styles.description}>
-                        Currently, I live in Seattle. In my personal life, I love to travel with my backpack, watch documentaries about geography, and explore new traditional music.
+                        Currently, I live in Bandung. In my personal life, I love to travel with my Pajero, watch documentaries about geography, and explore new traditional music.
                     </TextReveal>
                 </header>
                 <ParallaxImage src={"/gallery/IMG_20231225_165326.jpg"} alt={`An image`} width={800} height={1200} className={styles.figure} />

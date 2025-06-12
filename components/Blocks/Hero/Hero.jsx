@@ -133,13 +133,13 @@ export default function Hero() {
                     <div className={styles.inner}>
                         <div className={styles.title}>
                             <h1 ref={textRef}>
-                                I&apos;m Yasin <span className={`${styles.icon}`}>
+                                I&apos;m Azzuro <span className={`${styles.icon}`}>
                                     <span className={styles.reveal}></span>
                                     <Image
-                                        src="/hero-image.jpg"
+                                        src="/tes3.jpg"
                                         alt={commonConfig.metadata.title}
                                         width={640}
-                                        height={300}
+                                        height={200}
                                         priority
                                         className={styles.heroImg}
                                     />

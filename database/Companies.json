@@ -1,9 +1,9 @@
 [
   {
-    "position": "Senior Frontend Developer",
-    "company": "TenTwenty Digital Agency",
+    "position": "UI/UX & Frontend Developer",
+    "company": "Sambal Jerit Restaurant",
     "duration": "January 2022 - September 2023",
-    "location": "Remote",
+    "location": "Bandung",
     "image": "/company/tentwenty.svg",
     "url": "https://www.tentwenty.me/",
     "responsibilities": [
@@ -21,10 +21,10 @@
     }
   },
   {
-    "position": "UI & FE Developer",
-    "company": "Denge Bilgisayar",
-    "duration": "May 2018 - January 2022",
-    "location": "Hybrid",
+    "position": "Backend Developer & Frontend Developer",
+    "company": "AthleteZone e-commerce",
+    "duration": "June 2022 - June 2025",
+    "location": "Bandung",
     "image": "/company/denge-bilgisayar.svg",
     "url": "httsp://denge.com.tr/",
     "responsibilities": [
@@ -37,40 +37,6 @@
       "h": "206",
       "s": "59%",
       "l": "44%"
-    }
-  },
-  {
-    "position": "Frontend Developer",
-    "company": "Agency Look",
-    "duration": "April 2017 - May 2018",
-    "location": "On-site",
-    "image": "/company/agency-look.svg",
-    "url": "https://look.agency/",
-    "responsibilities": [
-      "Developed and maintained functional pages for web applications.",
-      "Worked with a .NET based custom CMS.",
-      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
-    ],
-    "color": {
-      "h": "240",
-      "s": "100%",
-      "l": "45%"
-    }
-  },
-  {
-    "position": "Web Designer",
-    "company": "Softanka Yazılım",
-    "duration": "January 2016 - March 2017",
-    "location": "On-site",
-    "image": "/company/softanka.svg",
-    "url": "https://www.playanka.com/",
-    "responsibilities": [
-      "Designed and developed themes for game markets"
-    ],
-    "color": {
-      "h": "210",
-      "s": "0%",
-      "l": "90%"
     }
   }
 ]

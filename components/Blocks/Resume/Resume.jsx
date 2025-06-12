@@ -49,10 +49,10 @@ export default function Resume() {
                     <div className={styles.cardGroup} ref={cardGroup}>
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
-                                <div className={styles.cardTitle}>YASIN GENC</div>
+                                <div className={styles.cardTitle}>AZZURO ADYA</div>
                                 <div className={styles.cardDesc}>Senior Frontend Developer</div>
                                 <hr/>
-                                <p>I am Yasin, a senior frontend developer with over 7 years of professional experience.
+                                <p>I am Azzuro, a junior frontend developer with over 3 years of professional experience.
                                     Successfully building user-friendly websites with ReactJS & NextJS. I pay attention
                                     to
                                     small details, enjoy technical problems, and work well in teams. I like learning new
@@ -67,13 +67,12 @@ export default function Resume() {
                                 <hr/>
                                 <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
                                 <p>
-                                    Senior Frontend Developer | TenTwenty Digital Agency <br/>
-                                    UI & Frontend Developer | Denge Bilgisayar <br/>
-                                    Frontend Developer | Agency Look
+                                    Junior Frontend Developer | Sambal Jerit Restaurant <br/>
+                                    UI & Frontend Developer | AthleteZone Web & App <br/>
                                 </p>
                             </div>
                             <figure className={styles.figure}>
-                                <Image src="/yasin-genc-photo.jpeg" alt="Yasin Genc" width={150} height={150}/>
+                                <Image src="/gbr2.jpg" alt="Yasin Genc" width={150} height={150}/>
                             </figure>
                         </div>
                         <div className={`${styles.card} ${styles.cardV2}`}>
@@ -88,9 +87,9 @@ export default function Resume() {
                             Resume</FancyButton>
                     </div>
                     <div className={styles.links}>
-                        <Link href={`${commonConfig.social.linkedin}`} target={'_blank'}>LinkedIn</Link>
+                        <Link href={`${commonConfig.social.instagram}`} target={'_blank'}>Instagram</Link>
                         <Link href={`${commonConfig.social.github}`} target={'_blank'}>GitHub</Link>
-                        <Link href={`${commonConfig.social.codepen}`} target={'_blank'}>CodePen</Link>
+                        <Link href={`${commonConfig.social.twitter}`} target={'_blank'}>Twitter</Link>
                     </div>
                 </div>
             </Container>
