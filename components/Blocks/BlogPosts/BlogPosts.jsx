@@ -18,7 +18,7 @@ export default function BlogPosts() {
                         <FancyButton theme='button-1' link='/'>See All</FancyButton>
                     </div>
 
-                    <Logo classVariable={styles.badge}></Logo>
+
 
                     <Card2
                         title="Web Development"
